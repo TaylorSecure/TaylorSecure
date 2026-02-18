@@ -4,7 +4,8 @@ Aspiring GRC Analyst focused on Governance, Risk, Compliance & Security Policy.
 
 ## 🎓 Education & Certifications
 - MSCSIA @ WGU (In progress)  
-- CompTIA CySA+  
+- CompTIA CySA+
+- ISC2 CC 
 
 ## 🛡️ Areas of Interest
 - Risk Management  
