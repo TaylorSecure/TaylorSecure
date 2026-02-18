@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shantall 👋
 
-<!--
-**TaylorSecure/TaylorSecure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring GRC Analyst focused on Governance, Risk, Compliance & Security Policy.
 
-Here are some ideas to get you started:
+## 🎓 Education & Certifications
+- MSCSIA @ WGU (In progress)  
+- CompTIA CySA+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Areas of Interest
+- Risk Management  
+- Compliance Frameworks  
+- Security Governance  
+- Policy Writing  
+- Audit & Controls  
+
+## 📁 Current Projects
+- GRC Risk Register  
+- Policy Development Labs  
+- NIST CSF Exercises  
+
+✨ More labs coming soon as I grow my GRC portfolio!
